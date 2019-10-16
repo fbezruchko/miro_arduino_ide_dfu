@@ -1,8 +1,6 @@
 # miro_arduino_ide_dfu
 Arduino IDE patches for MIRO wireless Arduino firmware upload support
 
-Link: https://drive.google.com/open?id=189Dm6bsfyKJjfZeE9M7Ma9xEmtaghMng
-
 # Content
 "patсh/win" and "patch/linux" - Put files from this folder to your arduino ide root folder.
 
