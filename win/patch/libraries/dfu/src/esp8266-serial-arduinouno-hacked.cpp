@@ -19,10 +19,10 @@
 static int
 esp8266_serial_arduinouno_hacked_target_reset(struct dfu_interface *iface)
 {
-	pinMode(0, OUTPUT);
-	digitalWrite(0, 0);
+	pinMode(2, OUTPUT);
+	digitalWrite(2, 0);
 	delay(1);
-	digitalWrite(0, 1);
+	digitalWrite(2, 1);
 	delay(200);
 	return 0;
 }
