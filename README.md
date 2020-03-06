@@ -13,6 +13,8 @@ Arduino IDE patches for MIRO wireless Arduino firmware upload support
 
 4. Run ARDUINO IDE and install ESP8266 tools with this manual: https://arduino-esp8266.readthedocs.io/en/2.5.2/installing.html
 
+4. From Sketch->Include Library->ManageLibraries... find and install ArduinoJson v5.x.x by Benoit Blanchon
+
 5. Restart ARDUINO IDE
 
 In you have error in Arduino IDE in Linux on sketch upload, you need to give rigths for arduino_mcuota executable file:
