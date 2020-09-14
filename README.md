@@ -11,7 +11,7 @@ Arduino IDE patches for MIRO wireless Arduino firmware upload support
 
 3. Put files from "patсh/win" and "patch/linux" to your ARDUINO IDE root folder
 
-4. Run ARDUINO IDE and install ESP8266 tools with this manual: https://arduino-esp8266.readthedocs.io/en/2.5.2/installing.html
+4. Run ARDUINO IDE and install ESP8266 tools with this manual: https://arduino-esp8266.readthedocs.io/en/2.5.2/installing.html. You need to install ESP8266 Arduino Core v2.6.0(!!! only this version is guaranteed to work completely).
 
 4. From Sketch->Include Library->ManageLibraries... find and install ArduinoJson v5.x.x by Benoit Blanchon
 
